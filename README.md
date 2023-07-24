@@ -1,6 +1,7 @@
 # Setup Instructions:
-  <li>Clone the repository and then open in the vs code</li>
-  * Ensure that python 3 is installed 
+  
+  * Clone the repository and then open in the vs code
+  * Ensure that python 3 is installed
   * Ensure all listed files are within the main directory 
   * Install pygame and run chess.py:
   
